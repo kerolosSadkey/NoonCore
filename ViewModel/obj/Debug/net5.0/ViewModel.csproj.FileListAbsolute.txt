@@ -1,0 +1,15 @@
+D:\ItiKerolos\NooNCore\Noon\ViewModel\bin\Debug\net5.0\ViewModel.deps.json
+D:\ItiKerolos\NooNCore\Noon\ViewModel\bin\Debug\net5.0\ViewModel.dll
+D:\ItiKerolos\NooNCore\Noon\ViewModel\bin\Debug\net5.0\ref\ViewModel.dll
+D:\ItiKerolos\NooNCore\Noon\ViewModel\bin\Debug\net5.0\ViewModel.pdb
+D:\ItiKerolos\NooNCore\Noon\ViewModel\bin\Debug\net5.0\Model.dll
+D:\ItiKerolos\NooNCore\Noon\ViewModel\bin\Debug\net5.0\Model.pdb
+D:\ItiKerolos\NooNCore\Noon\ViewModel\obj\Debug\net5.0\ViewModel.csproj.AssemblyReference.cache
+D:\ItiKerolos\NooNCore\Noon\ViewModel\obj\Debug\net5.0\ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\ItiKerolos\NooNCore\Noon\ViewModel\obj\Debug\net5.0\ViewModel.AssemblyInfoInputs.cache
+D:\ItiKerolos\NooNCore\Noon\ViewModel\obj\Debug\net5.0\ViewModel.AssemblyInfo.cs
+D:\ItiKerolos\NooNCore\Noon\ViewModel\obj\Debug\net5.0\ViewModel.csproj.CoreCompileInputs.cache
+D:\ItiKerolos\NooNCore\Noon\ViewModel\obj\Debug\net5.0\ViewModel.csproj.CopyComplete
+D:\ItiKerolos\NooNCore\Noon\ViewModel\obj\Debug\net5.0\ViewModel.dll
+D:\ItiKerolos\NooNCore\Noon\ViewModel\obj\Debug\net5.0\ref\ViewModel.dll
+D:\ItiKerolos\NooNCore\Noon\ViewModel\obj\Debug\net5.0\ViewModel.pdb

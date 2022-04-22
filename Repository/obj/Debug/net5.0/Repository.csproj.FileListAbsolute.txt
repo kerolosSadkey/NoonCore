@@ -1,0 +1,17 @@
+D:\ItiKerolos\NooNCore\Noon\Repository\bin\Debug\net5.0\Repository.deps.json
+D:\ItiKerolos\NooNCore\Noon\Repository\bin\Debug\net5.0\Repository.dll
+D:\ItiKerolos\NooNCore\Noon\Repository\bin\Debug\net5.0\ref\Repository.dll
+D:\ItiKerolos\NooNCore\Noon\Repository\bin\Debug\net5.0\Repository.pdb
+D:\ItiKerolos\NooNCore\Noon\Repository\bin\Debug\net5.0\DBData.dll
+D:\ItiKerolos\NooNCore\Noon\Repository\bin\Debug\net5.0\Model.dll
+D:\ItiKerolos\NooNCore\Noon\Repository\bin\Debug\net5.0\DBData.pdb
+D:\ItiKerolos\NooNCore\Noon\Repository\bin\Debug\net5.0\Model.pdb
+D:\ItiKerolos\NooNCore\Noon\Repository\obj\Debug\net5.0\Repository.csproj.AssemblyReference.cache
+D:\ItiKerolos\NooNCore\Noon\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\ItiKerolos\NooNCore\Noon\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+D:\ItiKerolos\NooNCore\Noon\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+D:\ItiKerolos\NooNCore\Noon\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+D:\ItiKerolos\NooNCore\Noon\Repository\obj\Debug\net5.0\Repository.csproj.CopyComplete
+D:\ItiKerolos\NooNCore\Noon\Repository\obj\Debug\net5.0\Repository.dll
+D:\ItiKerolos\NooNCore\Noon\Repository\obj\Debug\net5.0\ref\Repository.dll
+D:\ItiKerolos\NooNCore\Noon\Repository\obj\Debug\net5.0\Repository.pdb
